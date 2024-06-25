@@ -1,0 +1,17 @@
+.auth_btn {
+  width: 100%;
+}
+
+.form_links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  gap: 30px;
+}
+
+.form_links p {
+  flex-grow: 1;
+  flex-shrink: 1;
+  font-weight: 600;
+}
